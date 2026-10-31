@@ -4,8 +4,8 @@
 
 ## تطبيق التلفزيون (Android TV)
 1. افتح تطبيق **Downloader** في التلفزيون.
-2. اكتب الرابط واضغط **Go**:
-   `github.com/d7ooye/project0-apps/releases/latest/download/project0-tv.apk`
+2. اكتب الرقم **7834543** واضغط **Go**.
+   (أو الرابط: `github.com/d7ooye/project0-apps/releases/latest/download/project0-tv.apk`)
 3. اضغط **Install** ثم **Open**، وفعّل صلاحية **العرض فوق التطبيقات الأخرى**.
 
 لو عندك نسخة قديمة وما رضي يحدّث، احذفها وثبّت الجديدة.
